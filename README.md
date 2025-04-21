@@ -8,7 +8,3 @@ This repository contains my solutions and notes as I work through the book **"In
 
 "Introduction to Statistical Learning" is a highly regarded book for learning the foundations of statistical modeling and machine learning. The Python edition provides code examples and exercises using Python libraries such as `scikit-learn`, `pandas`, and `matplotlib`.
 
----
-
-## 🗂️ Repository Structure
-
